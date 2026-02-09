@@ -25,31 +25,30 @@ function AboutCard() {
             models, analyzing data, and developing applications that solve
             real-world problems.I enjoy developing real-world applications.
           </p>
-          <h2 className="purple" style={{ marginTop: "30px" }}>Education</h2>
+  <br />
+<h2 className="purple" style={{ marginTop: "30px" }}>Education</h2>
 
-<div style={{ textAlign: "left", marginTop: "15px" }}>
-  
+<div className="edu-timeline">
 
-  <p>
-    <strong>Koneru Lakshmaiah University (KL University)</strong><br/>
-    B.Tech – Computer Science Engineering<br/>
-    CGPA: <strong>9.79 / 10</strong>
-  </p>
+  <div className="edu-item">
+    <h4>Koneru Lakshmaiah University (2024–Present)</h4>
+    <p>B.Tech – Computer Science Engineering</p>
+    <b>CGPA: 9.79 / 10</b>
+  </div>
 
-  <p>
-    <strong>Sri Vasishta Junior College</strong><br/>
-    Intermediate – MPC<br/>
-    Marks: <strong>968 / 1000</strong>
-  </p>
+  <div className="edu-item">
+    <h4>Sri Vasishta Junior College (2022–2024)</h4>
+    <p>Intermediate – MPC</p>
+    <b>Marks: 968 / 1000</b>
+  </div>
 
-  <p>
-    <strong>Jyothi Vidyalaya High School</strong><br/>
-    SSC (10th Grade)<br/>
-    GPA: <strong>9.5 / 10</strong>
-  </p>
+  <div className="edu-item">
+    <h4>Jyothi Vidyalaya High School (2021–2022)</h4>
+    <p>SSC (10th)</p>
+    <b>GPA: 9.5 / 10</b>
+  </div>
 
 </div>
-
 
         </blockquote>
       </Card.Body>

@@ -44,12 +44,9 @@ function About() {
 
           <Techstack />
 
-          <h1 className="project-heading">
-            <strong className="purple">Tools</strong> I use
-          </h1>
           <Toolstack />
 <h1 className="project-heading" style={{ marginTop: "40px" }}>
-  <strong className="purple">Achievements</strong>
+  <strong className="purple">Experience & Participation</strong>
 </h1>
 
 <Row style={{ justifyContent: "center", paddingBottom: "40px" }}>

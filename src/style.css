@@ -27,6 +27,67 @@ button:focus {
   box-shadow: none !important;
 }
 
+.edu-timeline {
+  position: relative;
+  margin-top: 20px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.edu-timeline::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 3px;
+  background: #a362ff;
+}
+
+.edu-item {
+  position: relative;
+  padding-left: 25px;
+  margin-bottom: 30px;
+  text-align: left;
+}
+
+.tech-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid #a362ff;
+  border-radius: 15px;
+  padding: 10px;
+  margin: 10px;
+  width: 120px;
+  height: 90px;
+}
+
+.tech-icons img {
+  width: 30px;
+  height: 30px;
+  margin-bottom: 5px;
+}
+
+.tech-icons-text {
+  font-size: 12px;
+  text-align: center;
+}
+
+.edu-item::before {
+  content: "";
+  position: absolute;
+  left: -7px;
+  top: 8px;
+  width: 12px;
+  height: 12px;
+  background: #a362ff;
+  border-radius: 50%;
+}
+
+
 /* --------- */
 /*  Preloader */
 /* --------- */
@@ -45,6 +106,16 @@ button:focus {
 
 #preloader-none {
   opacity: 0;
+}
+
+.project-card {
+  display: flex;
+  justify-content: center;
+}
+
+.project-card .card {
+  min-height: 230px;
+  width: 100%;
 }
 
 /* #preloader-none {
@@ -325,6 +396,13 @@ button:focus {
     padding-top: 2em !important;
     padding-bottom: 2em !important;
   }
+}
+
+/* Ensure card body stretches and spaces content vertically */
+.card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 
 .home-about-section {

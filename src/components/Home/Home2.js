@@ -16,19 +16,11 @@ function Home2() {
             </h1>
 
             <p className="home-about-body">
-              I am a Computer Science Engineering student interested in
-              Artificial Intelligence, Machine Learning, Computer Vision, and Full Stack Development.
-              <br /><br />
+             Computer Science undergraduate passionate about AI, Machine Learning, Computer Vision, and Full-Stack Development.
+<br /><br />
+Experienced in building real-world projects using <b className="purple">Python, OpenCV, TensorFlow, React, and MySQL</b>.
 
-              I have developed several academic projects such as Emotion-Aware Voice Analysis,
-              Sign Language Detection, Real-Time Object Detection, and a Patient Care Management Platform.
-              <br /><br />
-
-              Through these projects, I gained practical experience in using
-              <b className="purple"> Python, OpenCV, TensorFlow, React, and MySQL </b>
-              to build applications that solve real-world problems.
-              <br /><br />
-
+<br /><br />
               I actively maintain my GitHub repository and continuously work on improving my technical skills.
             </p>
           </Col>

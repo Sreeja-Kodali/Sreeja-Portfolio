@@ -25,6 +25,8 @@ function ProjectCards(props) {
           {props.isBlog ? "Blog" : "GitHub"}
         </Button>
 
+        
+
         {!props.isBlog && props.demoLink && (
           <Button
             variant="primary"
