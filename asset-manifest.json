@@ -1,11 +1,9 @@
 {
   "files": {
     "main.css": "/Sreeja-Portfolio/static/css/main.89cd4493.css",
-    "main.js": "/Sreeja-Portfolio/static/js/main.0a5c8113.js",
+    "main.js": "/Sreeja-Portfolio/static/js/main.386ec7ef.js",
     "static/js/453.3f1fb51b.chunk.js": "/Sreeja-Portfolio/static/js/453.3f1fb51b.chunk.js",
     "static/media/Sreeja_Kodali_Resume.pdf": "/Sreeja-Portfolio/static/media/Sreeja_Kodali_Resume.77bad6e4a0a1d66aa2b1.pdf",
-    "static/media/home-main.svg": "/Sreeja-Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/Sreeja-Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/SQL.svg": "/Sreeja-Portfolio/static/media/SQL.7fd9bdcee9744b3b731709f2753c68af.svg",
     "static/media/vscode.svg": "/Sreeja-Portfolio/static/media/vscode.f5afdf1c4c0b365325db1e067c48782d.svg",
     "static/media/Google Chrome.svg": "/Sreeja-Portfolio/static/media/Google Chrome.e4cb7a8170c050a508f0bb06b5606529.svg",
@@ -21,11 +19,11 @@
     "static/media/CSS.svg": "/Sreeja-Portfolio/static/media/CSS.32dd69d420952df1780d2771ab454d4b.svg",
     "static/media/C.svg": "/Sreeja-Portfolio/static/media/C.2076f530a9d93fcccddf08bcb76ff63c.svg",
     "main.89cd4493.css.map": "/Sreeja-Portfolio/static/css/main.89cd4493.css.map",
-    "main.0a5c8113.js.map": "/Sreeja-Portfolio/static/js/main.0a5c8113.js.map",
+    "main.386ec7ef.js.map": "/Sreeja-Portfolio/static/js/main.386ec7ef.js.map",
     "453.3f1fb51b.chunk.js.map": "/Sreeja-Portfolio/static/js/453.3f1fb51b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.89cd4493.css",
-    "static/js/main.0a5c8113.js"
+    "static/js/main.386ec7ef.js"
   ]
 }
