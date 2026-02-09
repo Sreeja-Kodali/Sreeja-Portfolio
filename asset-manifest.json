@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.db538543.css",
-    "main.js": "/static/js/main.b70700bc.js",
+    "main.js": "/static/js/main.a8463acd.js",
     "static/js/453.3f1fb51b.chunk.js": "/static/js/453.3f1fb51b.chunk.js",
     "static/media/Sreeja_Kodali_Resume.pdf": "/static/media/Sreeja_Kodali_Resume.77bad6e4a0a1d66aa2b1.pdf",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
@@ -21,11 +21,11 @@
     "static/media/CSS.svg": "/static/media/CSS.32dd69d420952df1780d2771ab454d4b.svg",
     "static/media/C.svg": "/static/media/C.2076f530a9d93fcccddf08bcb76ff63c.svg",
     "main.db538543.css.map": "/static/css/main.db538543.css.map",
-    "main.b70700bc.js.map": "/static/js/main.b70700bc.js.map",
+    "main.a8463acd.js.map": "/static/js/main.a8463acd.js.map",
     "453.3f1fb51b.chunk.js.map": "/static/js/453.3f1fb51b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.db538543.css",
-    "static/js/main.b70700bc.js"
+    "static/js/main.a8463acd.js"
   ]
 }
