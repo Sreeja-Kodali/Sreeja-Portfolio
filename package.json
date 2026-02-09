@@ -48,7 +48,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "homepage": "https://Sreeja-Kodali.github.io/Sreeja-Portfolio"
+    "homepage": "https://sreeja-kodali.github.io/Sreeja-Portfolio"
+
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
