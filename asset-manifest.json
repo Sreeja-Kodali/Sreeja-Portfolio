@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.db538543.css",
+    "main.js": "/static/js/main.b70700bc.js",
+    "static/js/453.3f1fb51b.chunk.js": "/static/js/453.3f1fb51b.chunk.js",
+    "static/media/Sreeja_Kodali_Resume.pdf": "/static/media/Sreeja_Kodali_Resume.77bad6e4a0a1d66aa2b1.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/SQL.svg": "/static/media/SQL.7fd9bdcee9744b3b731709f2753c68af.svg",
+    "static/media/vscode.svg": "/static/media/vscode.f5afdf1c4c0b365325db1e067c48782d.svg",
+    "static/media/Google Chrome.svg": "/static/media/Google Chrome.e4cb7a8170c050a508f0bb06b5606529.svg",
+    "static/media/Python.svg": "/static/media/Python.9daed22c470296a63e19d0d509a1828b.svg",
+    "static/media/React.svg": "/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/Java.svg": "/static/media/Java.980d8e77e92511acfefbf2dfdf4336e1.svg",
+    "static/media/Node.svg": "/static/media/Node.4ccf66deab4cce38fa6a744e962daa9f.svg",
+    "static/media/Javascript.svg": "/static/media/Javascript.dcff0bf09e6c5ffc3eaea9cc7ec4c8f5.svg",
+    "index.html": "/index.html",
+    "static/media/HTML.svg": "/static/media/HTML.ed5a66323fb7466700b1b551dcf00ea5.svg",
+    "static/media/Git.svg": "/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
+    "static/media/CSS.svg": "/static/media/CSS.32dd69d420952df1780d2771ab454d4b.svg",
+    "static/media/C.svg": "/static/media/C.2076f530a9d93fcccddf08bcb76ff63c.svg",
+    "main.db538543.css.map": "/static/css/main.db538543.css.map",
+    "main.b70700bc.js.map": "/static/js/main.b70700bc.js.map",
+    "453.3f1fb51b.chunk.js.map": "/static/js/453.3f1fb51b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db538543.css",
+    "static/js/main.b70700bc.js"
+  ]
+}
