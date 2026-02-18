@@ -16,10 +16,10 @@ function Home2() {
             </h1>
 
             <p className="home-about-body">
-             Computer Science undergraduate passionate about AI, Machine Learning, Computer Vision, and Full-Stack Development.
-<br /><br />
-Experienced in building real-world projects using <b className="purple">Python, OpenCV, TensorFlow, React, and MySQL</b>.
-
+             Turning ideas into intelligent and practical software solutions through a blend of AI, software engineering, and full-stack development.
+             <br /><br />
+              My approach focuses on creating applications that are both technically strong and user-oriented, combining innovation with real-world usability. 
+              <br /><br />I continuously explore new technologies and development practices to build solutions that are efficient, scalable, and impactful.
 <br /><br />
               I actively maintain my GitHub repository and continuously work on improving my technical skills.
             </p>

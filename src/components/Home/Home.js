@@ -4,8 +4,6 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import Techstack from "../About/Techstack";
-import Github from "../About/Github";
 
 import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn, FaEnvelope } from "react-icons/fa";
@@ -18,29 +16,23 @@ function Home() {
         <Container className="home-content">
           <Row>
             <Col md={7} className="home-header">
-              <h1 style={{ paddingBottom: 15 }} className="heading">
-                Hi There!{" "}
-                <span className="wave" role="img" aria-labelledby="wave">
-                  👋🏻
-                </span>
-              </h1>
 
-              <h1 className="heading-name">
-                I'M
-                <strong className="main-name"> SREEJA KODALI </strong>
-              </h1>
-
-              <div style={{ padding: 50, textAlign: "left" }}>
-                <Type />
+              {/* Typewriter text (Hero Section) */}
+              <div style={{ paddingTop: 60, textAlign: "left" }}>
+                <h1 className="heading">
+                  <Type />
+                </h1>
               </div>
+
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
-              
+              {/* Keep empty or add image later */}
             </Col>
           </Row>
         </Container>
       </Container>
+
       <Home2 />
 
       <Container>
@@ -50,43 +42,41 @@ function Home() {
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>
+
             <ul className="home-about-social-links">
-              <ul className="home-about-social-links">
 
-  <li className="social-icons">
-    <a
-      href="https://github.com/Sreeja-Kodali"
-      target="_blank"
-      rel="noreferrer"
-      className="icon-colour home-social-icons"
-    >
-      <AiFillGithub />
-    </a>
-  </li>
+              <li className="social-icons">
+                <a
+                  href="https://github.com/Sreeja-Kodali"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <AiFillGithub />
+                </a>
+              </li>
 
-  <li className="social-icons">
-    <a
-      href="https://linkedin.com/in/sreejakodali"
-      target="_blank"
-      rel="noreferrer"
-      className="icon-colour home-social-icons"
-    >
-      <FaLinkedinIn />
-    </a>
-  </li>
+              <li className="social-icons">
+                <a
+                  href="https://linkedin.com/in/sreejakodali"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour home-social-icons"
+                >
+                  <FaLinkedinIn />
+                </a>
+              </li>
 
-  <li className="social-icons">
-    <a
-      href="mailto:sreejakodali12@gmail.com"
-      className="icon-colour home-social-icons"
-    >
-      <FaEnvelope />
-    </a>
-  </li>
+              <li className="social-icons">
+                <a
+                  href="mailto:sreejakodali12@gmail.com"
+                  className="icon-colour home-social-icons"
+                >
+                  <FaEnvelope />
+                </a>
+              </li>
 
-</ul>
-
-              </ul>
+            </ul>
           </Col>
         </Row>
       </Container>
